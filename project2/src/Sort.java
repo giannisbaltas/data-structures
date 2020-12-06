@@ -65,7 +65,7 @@ public class Sort {
 			p[l].printDisk();
 		}
 		
-		//pio apodotikos tropos na emfanisoume tous diskous
+		//a better way to print disks
 		
 		/*while (pq.getSize() != 0) {
 			max = Integer.parseInt(pq.getMax().toString());
