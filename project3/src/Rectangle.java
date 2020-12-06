@@ -35,11 +35,8 @@ public class Rectangle {
 	}
 	
 	public boolean contains(Point p) {
-		if((this.xmin <= p.x()) && (this.xmax >= p.x()) && (this.ymin <= p.y()) && (this.ymax >= p.y())) {
-			return true;
-		} else {
-			return false;
-		}
+		if((this.xmin <= p.x()) && (this.xmax >= p.x()) && (this.ymin <= p.y()) && (this.ymax >= p.y())) return true;
+		return false;
 	}
 	
 	
