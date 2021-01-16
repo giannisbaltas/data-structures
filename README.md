@@ -1,2 +1,2 @@
 # DataStructures
-Here is two projects on Data Structures for AUEB.
+Here are two projects on Data Structures for AUEB.
